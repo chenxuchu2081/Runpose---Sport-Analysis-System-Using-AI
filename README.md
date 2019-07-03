@@ -12,3 +12,7 @@
 
 ### Watch the video:
 [![watch the video](https://i.ya-webdesign.com/images/youtube-logo-2016-png.png)](https://www.youtube.com/watch?v=QXy6mvAN7FY&feature=youtu.be)
+
+### Installation will be needed
+opencv2.framework
+https://opencv.org/releases/
