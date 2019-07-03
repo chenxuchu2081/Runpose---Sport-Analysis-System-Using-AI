@@ -9,3 +9,6 @@
 * Calculate key index
 * HealthKit connection
 * Athlete Management for Coach
+
+### Watch the video:
+[![watch the video](https://i.ya-webdesign.com/images/youtube-logo-2016-png.png)](https://www.youtube.com/watch?v=QXy6mvAN7FY&feature=youtu.be)
