@@ -10,9 +10,10 @@
 * HealthKit connection
 * Athlete Management for Coach
 
-### Watch the video:
+### Watch video for full App:
 [![watch the video](https://i.ya-webdesign.com/images/youtube-logo-2016-png.png)](https://www.youtube.com/watch?v=QXy6mvAN7FY&feature=youtu.be)
 
-### Installation will be needed
+### Installation
 opencv2.framework
 https://opencv.org/releases/
+
