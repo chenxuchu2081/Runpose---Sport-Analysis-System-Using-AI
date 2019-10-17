@@ -16,4 +16,5 @@
 ### Installation
 opencv2.framework
 https://opencv.org/releases/
-
+Model Download
+https://s3-ap-northeast-1.amazonaws.com/swiftopenpose/MobileOpenPose.mlmodel
