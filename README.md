@@ -8,6 +8,7 @@
 
 ### Project features
 * Real-time Runpose Analysis powered by AI
+![image]()
 * Calculate key index
 * HealthKit connection
 * Athlete Management for Coach
@@ -26,4 +27,4 @@
 - [Multi-Person Pose Estimation in OpenCV using OpenPose](https://www.learnopencv.com/multi-person-pose-estimation-in-opencv-using-openpose/)
 
 ### License
- is available under the  license. See the LICENSE file for more info.
+ Runpose is available under the Apache license. See the LICENSE file for more info.
