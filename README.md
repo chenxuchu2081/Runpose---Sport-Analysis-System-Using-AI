@@ -22,7 +22,8 @@
 
 ### Installation
 #### 1. [opencv2.framework ](https://opencv.org/releases/)
-#### 2. [Model Download](https://s3-ap-northeast-1.amazonaws.com/swiftopenpose/MobileOpenPose.mlmodel)  <br />
+#### 2. [Model Download](https://s3-ap-northeast-1.amazonaws.com/swiftopenpose/MobileOpenPose.mlmodel)
+#### 3. [Other:see profile](https://github.com/chenxuchu2081/Runpose---Sport-Analysis-System-Using-AI/blob/master/Podfile)
 
 
 ### Reference
